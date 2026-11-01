@@ -146,7 +146,6 @@ aside{min-height:0;display:flex;flex-direction:column;overflow:hidden;border-lef
 .c-band-label{font-family:var(--f-display);fill:var(--op-blue);font-size:52px;letter-spacing:.08em;text-anchor:middle;opacity:.8}
 .c-red-label{font-family:var(--f-display);fill:#fff6ea;font-size:88px;letter-spacing:.18em;text-anchor:middle;opacity:.9}
 .c-note{font-family:var(--f-display);fill:var(--c-muted);font-size:36px;letter-spacing:.03em}
-.c-sound{font-family:var(--f-mono);fill:var(--op-blue);font-size:20px;opacity:.4}
 .c-rose{fill:none;stroke:var(--c-ink);stroke-opacity:.55;stroke-width:2}
 .c-rose-n{fill:var(--op-red);opacity:.85} .c-rose-s{fill:var(--cloud);stroke:var(--c-ink);stroke-width:2;opacity:.85}
 .c-q{font-family:var(--f-display);fill:var(--c-ink);font-size:54px;text-anchor:middle}
@@ -506,9 +505,6 @@ function chartSVG() {
   // the four Blues: faint landmasses
   const masses = [[520,420,170],[930,760,110],[1260,300,90],[260,880,80],[330,1720,170],[820,2010,140],[1300,1660,110],[1120,2230,70],[2240,1700,170],[2920,2010,150],[3250,1620,90],[2600,2250,80],[2280,200,60],[3330,260,70],[3330,900,80]];
   masses.forEach(([x, y, r], i) => o.push(`<path class="c-land faint" d="${blob(x, y, r, 'm' + i, 16, .5, .7)}"/>`));
-  // soundings
-  const R = rng('soundings');
-  for (let i = 0; i < 70; i++) { const x = 120 + R() * (W - 240), y = 80 + R() * (H - 160); if (y > 1020 && y < 1420) continue; if (Math.abs(x - 1722) < 260 || x > 3420 || x < 140) continue; o.push(`<text class="c-sound" x="${x | 0}" y="${y | 0}">${10 + (R() * 90 | 0)}</text>`); }
   // Red Line — centre, crossing at Reverse Mountain
   const wl = wave('redL'), wr = wave('redR');
   const xl = y => 1652 - 150 * g(y, 1209, 230) - 70 * g(y, 1880, 110) - 50 * g(y, 300, 90) + wl(y);
