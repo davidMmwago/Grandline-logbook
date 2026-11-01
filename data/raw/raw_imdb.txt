@@ -1,0 +1,410 @@
+R:8.4,8.4,8,8.4,7.4,7.7,7.5,7.7,7.1,7.3,7.2,7.5,7.5,7.5,7.4,7.5,8.1,6.7,8.9,7.6,7.6,7.5,7.8,9.2,7.5,8.8,7.5,7.6,7.9,8.4,7.5,7.6,7.8,7.4,8.2,9,9.4,8.2,8.1,8,8.1,8,8.7,7.9,7.8,6.3,6.1,7.9,8.1,7.4,6.9,8.3,8.5,7,6.7,6.6,6.5,6.6,6.8,7,7.5,7.5,7.5,7.6,8.2,8,7.9,6.6,6.8,7.1,7.3,7.2,7.4,7.6,7.5,7.6,7.5,7.2,7.5,7.5,7.4,7.5,8.1,7.9,8.5,9.4,8.1,7.7,7.8,8.9,7.8,7.6,7.2,8.9,8.2,7.3,7.2,6.8,6.8,7.4,6.7,7,7.2,7.8,7.7,8,8.1,8.2,8.4,9.2,7.8,8.1,7.6,7.7,8,7.9,7.8,7.7,9.2,7.9,8.4,8.8,8.2,8.1,9,9.5,8.2,8,9.2,8.6,7,6.5,6.7,6.7,6.8,6.4,6.5,6.5,6.6,6.6,6.5,6.6,7.3,7.2,7.5,8.1,7.7,7.5,7.3,8.1,9.4,8.3,7.7,7.4,7.4,7.4,7.3,7.6,7.5,7.5,7.3,7.7,7.6,7.8,7.5,7.3,7.4,7.3,7.7,7.9,7.6,7.7,7.8,7.9,7.6,7.9,7.8,8.3,8.1,8.9,8.2,9,9,8,8.7,7.8,7.7,7.8,9.1,8,8.2,9.3,8,8,7.7,7.2,7.3,7.1,7.4,7.5,7.3,7.3,7,7.2,7.2,7.6,7.2,6.9,7,7,7.1,7.5,6.9,7.2,6.6,6.5,6.8,6.9,7.2,7,6.9,6.6,6.9,6.7,6.3,6.4,8.9,8.3,7.6,7.6,7.6,7.7,7.9,9.1,9.5,9.7,7.7,8,7.8,8.1,7.7,8.1,9.1,9,8.6,8,8.2,8.2,8.2,9,8.9,8,7.8,8.1,7.9,7.8,8,8,7.3,7.7,7.9,8.3,8,8.1,7.8,7.7,7.9,7.9,8,8.6,8.1,8.5,9.3,9.5,9.1,9.1,9.5,9.7,6.2,5.8,6,5.8,5.8,8.1,7.8,7.8,7.8,8.1,8,8.6,5.8,5.6,7.9,8.1,7.7,8.1,8.2,8.6,8.3,9.2,9.2,8.2,5.8,9,8.9,8.1,8.3,9,9.7,9.2,9,9.7,8.7,9.2,8.4,9.2,6.3,6.2,6.7,8.1,7.9,8,8.5,8.2,9.3,6.7,6.3,6.4,6.5,6.3,6.4,6.5,6.3,6.6,6.6,5.2,8.2,8.1,7.5,7.4,7.6,7.5,7.6,7.5,6.9,7.4,7.3,7.7,7.8,7.7,7.5,7.6,8.3,7.2,7.6,7.6,7.8,7.5,7.5,7.7,7.8,8.2,7.6,7.2,7.5,7.4,8,7.9,8.1,7.9,8,8.9,8.9,8.5,8.3,9.1,9.7,8.4,8.2,9.4,8.3,6.3,6.3,7.3,7.5,7.4,7.3,7.6,7.7,7.6,7.9,8.4,8.2,8.1,8.3,9.7,9.3,9.1,9.1,9.5,9.1,9.1,9.2,9.6,9.8,5.6,5.5,7.5,7.6,7.7,7.8,8.3,8.9,8.6,8.9,8.6,8.5,7.4,6.9,7.4,7.5,7.9,7.9,7.8,7.7,6.4,6.1,6.2,6.2,7.8,7.6,7.9,8,7.6,8.1,8.4,8.1,7.5,7.2,7.8,7.9,8.2,8.2,8.2,7.7,8.4,9,7.9,8.2,8.9,9.4,7.9,7,6.2,7,7,6.7,6.7,9.3,9.3,9.4,9.2,9.3,9.2,9.4,9.5,9.4,9.3,9.1,9.2,9.2,9.4,9.2,9.7,9.3,9.3,9.2,9.5,9.3,9.7,9.7,9.7,9.7,9.7,9.8,9.5,9.3,9.6,9.6,8.6,8.7,5.2,8.2,8.1,7.8,8.2,7.9,7.4,7.4,7.8,7.9,7.9,9,8.4,9.3,8,7.9,7.3,7.6,7.5,8.3,7.9,7.4,7.2,7.8,9.2,9.2,8.2,7.9,7.8,9.2,8.6,7.9,7.6,7.5,7.5,7.6,7.3,7.3,7.3,7.1,7.2,7.3,7.5,7.2,7.7,7.7,7.6,7.5,7.7,8.3,5.3,8.4,7.6,7.3,8,7.7,7.5,7.5,6.9,7,7.2,8.3,9,7.9,7.6,7.6,7.3,7.1,7.3,7.3,7.1,6.9,7.2,7.7,7.7,7.7,8,7.5,8,8.1,7.6,7.5,7.5,6.8,6.8,6.6,6.6,7.6,7.5,7.2,7.3,7.3,7.5,7.8,7.9,8.3,7.9,7.4,5.9,7.4,7.2,7.7,7.9,7.5,7.3,8,7.6,7.7,7.2,7.2,7.3,7.9,7.6,7.4,7.5,8.1,7.7,7.7,7.4,7.4,7.6,8.9,8.1,7.9,9.2,8.2,7.6,7.9,8,7.9,7.8,7.7,8.4,8.1,6.7,6.6,6.6,8.2,7.8,8,7.7,7.7,7.9,7.8,7.8,7.8,8,7.7,7.4,7.5,8.4,8.4,7.9,7.6,9,7.7,7.6,8.4,8,8.2,7.6,7.4,7.9,8.5,7.7,7.6,7.9,8.3,8.4,9.2,9.2,9.5,7.6,7.5,7.7,7.9,7.8,7.6,7.9,7.6,7.9,7.7,8,8.4,8.7,9.3,9.4,8.6,8.7,8.2,7.7,8,7.8,8,7.9,8.6,7.7,7.9,7.5,7.5,8.1,7.3,7.3,8.1,8.5,9.1,9.3,9.2,8.9,9.3,9.3,9.4,9.3,9.4,9.7,8.4,9.1,7.8,8.2,7.8,8.2,8.6,7.6,9.2,8.9,8.7,8.3,9.5,9,9.1,9.3,9.6,9.1,9.4,9.7,8.9,9.3,8.7,7.8,7.7,8.1,9.5,7.7,8.4,9.1,8.7,9.1,9.2,7.8,7.7,7.8,9.1,9.3,9.2,8.8,6.4,6.2,6.2,6.3,7.1,7.6,7.4,7.5,7.6,7.5,7.5,7.4,7.7,7.7,7.6,7.9,8.4,8.6,7.3,7.6,9.2,7.8,8.7,9.1,8.2,8,8,8.2,7.2,7.5,7,7.1,7.7,6.8,6.7,7,7.6,7.6,8.3,7.9,7.7,7.4,7.8,7.7,7.2,7.3,8.2,7.9,7.5,7.6,7.7,8.1,8.5,8.6,8.3,8.8,9.2,9.6,8.9,9.1,8.3,9.7,9,9.1,8.9,8.8,8.5,8.5,8.9,9,9.6,9.2,9.2,8.9,8.6,8,8.3,8.8,9.6,8.9,7.9,8.4,7.9,8.7,7.9,9.2,9.5,9.1,9.1,8,8.8,8.2,8.4,7.9,8.6,8.6,7.8,7.7,7.8,7.8,7.8,7.8,9.4,9.3,8.9,9,8.5,8.8,8.6,9.3,9,7.9,7.6,7.9,7.7,9.1,8.2,9,8.6,8.1,8.6,9.5,9.3,9.7,9.6,8.9,9.1,8.6,8.6,8.9,9.5,8.7,7.8,7.7,6.4,6.5,6.7,6.7,7.4,7.4,8.2,7.7,7.7,7.3,8.6,9.3,8.9,9.1,5.8,5.7,8.8,8.6,9.1,8.6,7.6,7.5,7.1,7,8.5,8.5,6.1,8.5,9,8.9,8.2,9.2,9.3,9.7,9.6,8.9,9,8,8.1,7.5,6.9,8,8.1,8.8,9,7.7,7.5,7.5,7.4,7.6,7.5,7.9,8.9,9.4,8.1,7.9,7.7,7.7,8.8,9.4,9.2,8.9,8.6,7.8,8.6,7.8,7.6,7.7,9.1,8.9,8.2,8.7,8.6,8.5,8.2,9,9.6,9.6,9,8.9,8.9,9.2,9.4,9.2,9.6,9.5,9.5,9.7,9.5,9.2,9.2,9.6,9.4,9.7,9.4,9.2,9.5,9.5,9,9.1,9.1,9.6,8.4,7.6,7.8,7.7,8,8.8,8.2,8.9,7.9,8.9,7.8,9,9.6,9.2,8.9,8.9,8.2,9.5,8.9,7.8,8.3,8.8,6.8,6.9,6.6,7.4,7.1,8.1,7.8,7.7,8.9,8.4,9.8,9.3,9.7,9.1,7.7,7.6,7.7,7.8,7.6,7.8,9.1,9.6,9.6,9.7,7,7.5,7.8,7.7,9.6,7.7,7.7,9,7.3,8.4,7.7,8.5,7.3,7.1,8.1,9.4,9.1,9.4,7.9,9.1,9.4,8.2,9.2,8.1,8.1,8.9,7.5,8.8,8.6,7.6,8.3,9.2,9.6,9.7,8.2,8.8,8.4,9.7,9.4,9,9.3,9.4,9.2,9.4,7.9,9.5,9.1,9.6,8.7,8.8,8.4,9,9,8.5,8,7.9,8.5,9.1,9.3,9.2,9.7,8.4,8.2,8.4,9.6,8,8,8.9,8.8,8.5,8.5,9.7,9.6,8.1,8.5,8.8,8.3,7.8,7.5,7.7,9.2,8.1,8.4,9.7,8.3,9.7,9.7,8.3,8.2,9.1,9.5,8.7,9.6,9.7,9,8.6,9.5,9,9.6,9.7,9.6,9.6,9.1,9.4,9.2,9.2,9.3,9.8,9.7,8.1,8.4,9,8.7,9,8.9,9.7,8.8,8.7,8.1,8.7,9.4,8.7,9.6,9.7,9.8,9.1,9.4,9,7.4,7.4,8.1,9.1,8.7,8,9.7,8.3,7.7,8.1,8.4,9.3,8.2,8.8,8.3,8.5,8.2,8.1,8.5,9.2,8.7,9.4,9.5,9.6
+19|8.9|6.8K|Santouryuu no Kako! Zoro to Kuina no Chikai!
+24|9.2|8.1K|Taka no Me no Mihawk! Kengou Zoro Umi ni Chiru
+26|8.8|5.4K|Zeff to Sanji no Yume Maboroshi no All Blue
+36|9|6.2K|Ikinuke! Haha Bellemere to Nami no Kizuna!
+37|9.4|8.4K|Luffy Tatsu! Uragirareta Yakusoku no Ketsumatsu!
+43|8.7|4.7K|Gyojin Teikoku no Owari! Nami wa Ore no Nakama Da!
+53|8.5|3.9K|Densetsu wa Hajimatta! Mezase Grand Line
+85|8.5|3.3K|Hamidashi Mono no Yume! Yabuisha Hiluluk!
+86|9.4|6.4K|Hiluluk no Sakura to Uketsugareyuku Ishi!
+90|8.9|4.3K|Hiluluk no Sakura! Drum Rocky no Kiseki
+94|8.9|4.7K|Gouketsu-tachi no Saikai! Yatsu no Na wa Hiken no Ace
+110|9.2|4.9K|Nasake Muyou no Shitou! Luffy vs Crocodile
+119|9.2|5.1K|Gouken no Gokui! Koutetsu o Kiru Chikara to Mono no Kokyuu
+122|8.8|3.4K|Suna Wani to Mizu Luffy! Kettou Dai 2 Round
+125|9|4.1K|Idainaru Tsubasa! Waga Na wa Kuni no Shugoshin Pell
+126|9.5|7.5K|Koeteiku! Arabasta ni Ame ga Furu!
+129|9.2|4.9K|Hajimari wa Ano Hi! Vivi ga Kataru Boukentan!
+130|8.6|3K|Kiken na Kaori! Shichininme wa Nico Robin!
+151|9.4|5.7K|Ichioku no Otoko! Sekai Saikou Kenryoku to Kaizoku Kurohige
+180|8.9|3.5K|Kodai Iseki no Taiketsu! God Enel no Mokuteki!!
+182|9|3.7K|Tsuini Gekitotsu! Kaizoku Luffy VS God Enel!!
+183|9|3.6K|Maxim Fujou! Ugoki Hajimeta Deathpiea!!
+185|8.7|3.1K|Mezameta Futari! Moeru Koi no Kyuushutsu Zensen
+189|9.1|3.9K|Eien no Shinyuu! Oo-unabari ni Hibikuchikai no Kane!!
+192|9.3|4.3K|Kami no Kune no Kiseki! Tenshi no Todoita Love Song
+227|8.9|3.8K|Kaigun Honbu Taishou Aokiji! Saikou Senryoku no Kyoui
+234|9.1|4K|Nakama Kyuushutsu! Harikomi Franky House
+235|9.5|5.7K|Gekka no Oogenka! Kanashimi ni Hirugaeru Kaizokuki!
+236|9.7|12K|Luffy vs Usopp! Butsukaru Otoko no Iji
+243|9.1|3.9K|Kamen o Totta CP9! Sono Odoroki no Sugao
+244|9|3.5K|Himeta Kizuna! Iceberg to Franky
+245|8.6|2.2K|Kaete Koi Robin! CP9 to no Taiketsu!
+250|9|3.6K|Densetsu no Otoko no Saigo! Umi Ressha ga Naita Hi
+251|8.9|3.1K|Uragiri no Shinsou! Robin no Kanashiki Ketsui!
+270|8.6|2.7K|Robin o Kaese! Luffy VS Blueno!
+272|8.5|2.2K|Luffy Mokuzen! Saibanshomae Hiroba e Shuuketsu se yo
+273|9.3|4.6K|Subete wa Nakama wo Mamoru Tame ni! Gear Second Hatsudou
+274|9.5|6.5K|Kotaero Robin! Mugiwara Ichimi no Sakebi!!
+275|9.1|3.9K|Robin no Kako! Akuma to Yoba re ta Shoujo!
+276|9.1|3.9K|Shukumei no Oyako! Sono Haha no Na wa Olvia!
+277|9.5|5.3K|Ohara no Higeki! Buster Call no Kyoufu
+278|9.7|23K|Ikitai to Ie! Oretachi wa Nakama da!!
+290|8.6|2.5K|Seigyo Funou! Chopper Kindan no Rumble
+298|8.6|2.3K|Shakunetsu no Keri! Sanji Ashiwaza no Full Course
+300|9.2|4.1K|Kishin Zoro! Kihaku ga Miseta Asura no Keshin
+301|9.2|3.9K|Spandam Kyougaku! Shihou no Tou ni Tatsu Eiyuu
+304|9|3.7K|Katenakya Daremo Mamorenai! Gear Third Shidou
+305|8.9|3.5K|Senritsu no Kako! Yami no Seigi to Rob Lucci
+308|9|3.7K|Luffy o Mate! Tamerai no Hashi no Shitou!
+309|9.7|24K|Kobushi ni Kometa Omoi! Luffy Konshin no Gatling
+310|9.2|4K|Tomo, Umi yori Kitaru! Mugiwara Ichimi Saikyou no Kizuna
+311|9|3.7K|Zen'in Dai Dasshutsu! Shousha no Michi wa Kaizoku no Tame ni
+312|9.7|24K|Arigatou Merry! Yuki ni Kemuru Wakare no Umi
+313|8.7|2.6K|Yaburareta Ansoku! Ai no Kobushi o Motsu Kaigun Chuujou
+314|9.2|4K|Saikyou no Kakei? Akasareta Luffy no Chichi!
+316|9.2|4.1K|Shanks Ugoku! Bousou Suru Jidai e no Kusabi
+323|8.5|1.7K|Shukkou Mizu no Miyako! Otoko Usopp Kettou no Kejime
+325|9.3|4.2K|Saikyou no Nouryoku! Ace o Osou Kurohige no Yami
+372|8.9|3.3K|Chouzetsu Battle Start! Luffy vs Luffy
+373|8.9|3K|Kecchaku Semaru! Tatakikome, Todome no Ichigeki
+374|8.5|1.9K|Karada ga Kieru! Akumu no Shima ni Sasu Asahi!
+376|9.1|3.7K|Subete o Hajiku: Kuma no Nikyunikyu no Chikara
+377|9.7|69K|Nakama no Itami wa Waga Itami: Zoro Kesshi no Tatakai
+380|9.4|4.5K|Binks no Sake: Kako to Genzai o Tsunagu Uta
+396|9.7|18K|Tekken Sakuretsu! Auction wo Buttsubuse
+397|9.3|4.8K|Dai Panic! Auction Kaijou no Shitou
+398|9.1|3.6K|Taishou Kizaru Ugoku! Souzen Sabaody Shotou
+399|9.1|3.6K|Houimou o Toppa Seyo! Kaigun Tai Sannin no Senchou
+400|9.5|5.1K|Roger to Rayleigh: Kaizoku Ou to Sono Migiude
+401|9.1|3.6K|Kaihi Fukanou!? Taishou Kizaru no Kousoku no Keri
+402|9.1|3.7K|Attouteki! Kaigun no Sentou Heiki Pacifista
+403|9.2|3.8K|Saranaru Kyouteki Arawaru! Masakari Katsuida Sentoumaru
+404|9.6|7.7K|Taishou Kizaru no Moukou: Mugiwara Ichimi Zettaizetsumei!
+405|9.8|59K|Kiesareta Nakama-tachi: Mugiwara Ichimi Saigo no Hi
+413|8.9|3.2K|Luffy Daikusen! Hebi Shimai no Haki no Chikara!!
+414|8.6|2.3K|Nouryoku Zenkai Battle!! Gomugomu Tai Hebihebi
+415|8.9|3K|Hancock no Kokuhaku: Shimai no Imawashiki Kako
+416|8.6|2.2K|Ace o Sukue! Arata na Mokutekichi wa Daikangoku
+417|8.5|2.2K|Koi wa Hurricane! Meromero Hancock
+447|9|3.7K|Ikari no Jet Pistol: Luffy vs Kurohige
+450|8.9|3K|Datsugoku Team Zettaizetsumei: Kinjite 'Venom Demon'
+451|9.4|4.5K|Okose Saigo no Kiseki: Seigi no Mon wo Toppaseyo
+459|9.3|4.5K|Kessen no Toki Semaru! Kaigun Saikyou no Fujin Kansei!
+460|9.3|4.4K|Kyodai Kantai Arawaru: Shuurai! Shirohige Kaizoku-dan
+461|9.4|4.8K|Kessen no Makuake! Ace to Shirohige no Kako
+462|9.2|4.1K|Sekai wo Horobosu Chikara! Gura Gura no Mi no Nouryoku
+463|9.3|4.3K|Subete wo Yakitsukusu!! Taishou Akainu no Chikara!
+464|9.2|4.1K|Majin no Shison! Little Oars Jr. Bakushin!
+465|9.4|4.6K|Shousha dake ga Seigi: Hatsudou! Sengoku no Sakusen
+466|9.5|5.6K|Mugiwara Team Touchaku: Fuuunkyuu wo Tsugeru Senjou
+467|9.4|4.6K|Shindemo Tasukeru: Luffy VS Kaigun Battle Starts
+468|9.3|4.2K|Gekisen no Renzoku! Nouryokusha Gundan VS Nouryokusha Gundan
+469|9.1|4.2K|Kuma ni Okita Ihen Iva-san Ikari no Ichigeki
+470|9.2|4.1K|Kengou Mihawk: Luffy ni Semaru Kokutou no Zangeki
+471|9.2|3.9K|Senmetsu Sakusen Shidou: Pacifista Gundan no Iryoku
+472|9.4|4.4K|Akainu no Bouryaku! Otoshiirerareta Shirohige
+473|9.2|4K|Houi Sakusen Sadou! Shirohige Kaizoku-dan Zettaizetsumei!!
+474|9.7|8.3K|Shokei Shikkou Meirei Kudaru: Houiheki wo Toppaseyo!
+475|9.3|4.4K|Saishuu Kyokumen Totsunyuu! Shirohige Kishikaisei no Itte
+476|9.3|4.1K|Luffy Chikaratsuku! Oris Hiroba no Souryokusen!!
+477|9.2|3.9K|Inochi wo Kezuru Chikara: Tenshon Hormone Futatabi
+478|9.5|5K|Yakusoku no Tame ni!! Gekitotsu! Luffy to Coby
+479|9.3|4.1K|Shokeidai Mokuzen! Hirakareta Ace e no Michi!!
+480|9.7|8.4K|Sorezore no Eranda Michi: Luffy vs Garp!
+481|9.7|9.9K|Ace Kyuushutsu! Shirohige Saigo no Senchou Meirei!
+482|9.7|53K|Hi wo mo Yakitsukusu Chikara: Akainu Hijou no Tsuigeki
+483|9.7|62K|Kotae wo Sagashite: Hiken no Ace Senjou ni Shisu
+484|9.7|55K|Kaigun Honbu Houkai! Shirohige Kotobanaki Ikari!
+485|9.8|63K|Kejime wo Tsukeru: Shirohige VS Kurohige Kaizoku-dan
+486|9.5|6.4K|Show no Kaimaku: Akasareta Kurohige no Takurami
+487|9.3|4.7K|Akainu no Shuunen! Luffy wo Osou Maguma no Kobushi
+488|9.6|8.5K|Hisshi no Sakebi: Unmei o Kaeru Yuuki Aru Suubyou
+489|9.6|8.6K|Shanks Kenzan! Choujou Sensou Tsui ni Shuuketsu
+490|8.6|2.7K|Gunyuukakkyosu! Atarashii Jidai no Hajimari!
+491|8.7|2.9K|Nyougashima Jouriku: Luffy o Semeru Kakoku na Genjitsu
+503|9|3.3K|Yoroshiku Tanomu! Kyoudai kara Todoita Tegami!
+505|9.3|3.7K|Aitsura ni Aitee! Luffy Namida no Sakebi
+516|9.2|3.6K|Luffy Shugyou Kaishi: 2-nengo ni Yakusoku no Basho de
+517|9.2|3.8K|Shinshou Kaimaku: Saishuuketsu! Mugiwara no Ichimi
+521|9.2|3.7K|Sentou Kaishi! Misero Shugyou no Seika!
+522|8.6|2.2K|Zen'in Shuugou: Luffy Shinsekai e no Funade
+554|9|3.2K|Dai Gekitotsu! Mugiwara Ichimi VS 10 Man no Teki
+613|8.9|2.9K|Ougi Sakuretsu! Zoro Saikyou no Ittou-ryuu!
+616|9.2|3.3K|Shougeki no Kecchaku! Smoker Tai Vergo!
+646|9|3.1K|Densetsu no Kaizoku - Don Chinjao!
+655|8.5|1.9K|Dai Kessen! Sanji VS Doflamingo
+661|9.2|3.1K|Shichibukai Taiketsu Law VS Doflamingo
+662|9.2|3.1K|Ryouyuu Aimamieru! Mugiwara to Ten Yasha
+663|9.5|5.2K|Luffy Kyougaku: Ace no Ishi o Tsugu Otoko
+676|8.7|2K|Sakusen Shippai! Eiyuu Usoland Shisu!?
+677|9.3|3.8K|Densetsu Fukkatsu! Kyros Konshin no Ichigeki
+678|9.4|4K|Kaken Sakuretsu! Fukkatsu Meramera no Mi no Chikara
+679|8.6|1.9K|Sassou Toujou: Kakumeigun Sanbou Souchou Sabo!
+680|8.7|1.9K|Akuma no Wana: Dressrosa Senmetsu Sakusen
+687|8.6|1.9K|Daigekitotsu! Sanbou Souchou Sabo vs Taishou Fujitora
+696|8.5|1.9K|Namida no Saikai: Rebecca to Kyros
+697|9.1|3.2K|Ichigeki Hissatsu: Dressrosa o Sukuu Otoko
+698|9.3|4K|Ikari Bakuhatsu: Luffy Law Saikyou no Hisaku
+699|9.2|3.2K|Kedakaki Ichizoku! Doflamingo no Shoutai!
+700|8.9|3K|Kyuukyoku no Chikara: Op-Op no Jitsu no Himitsu!
+701|9.3|3.5K|Kanashiki Kioku: Shiroi Machi no Shounen Law!
+702|9.3|3.4K|Tenryuubito! Doffy no Souzetsu Naru Kako
+703|9.4|3.9K|Kunan no Michi: Law to Corazon Inochi no Tabi
+704|9.3|3.4K|Toki Sameru! Op-Op no Mi o Ubae!
+705|9.4|4K|Kakugo no Toki: Corazon Wakare no Egao!
+706|9.7|15K|Yuke Law: Yasashiki Otoko Saigo no Tatakai!
+708|9.1|3.1K|Atsuki Tatakai: Law vs Doflamingo
+713|8.6|2K|Baribari: Homage Shinken Hatsudou!
+715|9.2|3.3K|Otoko no Kettou: Senor Ai no Banka
+716|8.9|2.4K|Shi no Hoshikuzu: Diamante Moukou no Arashi
+717|8.7|2.1K|Trueno Bastardo: Kyros Ikari no Ichigeki
+719|9.5|5K|Kuuchuu Kessen: Zoro Shin Hissastsu Ougi Sakuretsu!
+720|9|3K|Abayo! Bellamy Wakare no Ichigeki!
+721|9.1|2.9K|Law Shisu: Luffy Fundo no Moukougeki!
+722|9.3|3.2K|Shuunen no Yaiba: Gyakushuu no Gamma Knife!
+723|9.6|5.9K|Haki Gekitotsu: Luffy tai Doflamingo
+724|9.1|2.9K|Kougeki Funou: Trebol Shougeki no Himitsu
+725|9.4|4.6K|Ikari Bakuhatsu: Ore ga Zenbu Hikiukeru
+726|9.7|24K|Gear Fourth! Kyoui no Bounce Man!
+727|8.9|2.6K|Daigyakushuu! Doflamingo no Kakusei!
+728|9.3|3.5K|Luffy! Konshin no Leo Bazooka
+729|8.7|2.2K|Kaen Ryuuou: Luffy no Inochi o Mamorinuke
+733|9.5|4.5K|Ten o Utsu: Luffy Ikari no King Kong Gun
+736|9.1|3K|Gekishin Hashiru: Ugokidasu Saiaku no Sedai!
+737|8.7|2.1K|Densetsu Tanjou: Kakumei Senshi Sabo no Bouken!
+738|9.1|3K|Kyoudai no Kizuna: Luffy Sabo Saikai Hiwa
+739|9.2|3.4K|Saikyou no Seibutsu: Yonkou - Hyakujuu no Kaidou
+743|9.1|3K|Otoko no Iji: Luffy tai Fujitora Makkou Shoubu
+744|9.3|3.3K|Nigeba Nashi: Taishou Fujitora Hijou no Tsuigeki!
+745|9.2|3.1K|Kobun no Sakazuki: Kessei! Mugiwara Daisendan!
+746|8.8|2.1K|Gun'yuukakyo: Arekuruu Shinsekai no Kaibutsu-tachi
+764|8.6|1.9K|Yarou Domo e: Sanji Wakare no Okitegami
+767|9.2|3.2K|Isshokusokuhatsu: Inu to Neko to Samurai!
+769|8.7|2.2K|Akai Ishi! "One Piece" e no Michishirube
+770|9.1|3K|Wano Kuni no Himitsu: Kouzuki-ke to Rekishi no Ponegliffs
+799|8.5|2K|Zenryoku Shoubu: Gear Fourth tai Bisbis no Chikara
+800|8.6|2K|Ichi to Ni: Shuuketsu! Vinsmoke-ke
+802|8.8|2.6K|Ikari no Sanji: Germa Double Six no Himitsu
+803|9.2|3.2K|Suteta Kako: Vinsmoke Sanji
+804|9.6|5.6K|East Blue e: Sanji Ketsui no Funade
+805|8.9|2.8K|Genkai Shoubu: Luffy to Mugen Biscuit
+806|9.1|3.3K|Manpuku no Chikara: Shin Gear Fourth Tan Man!
+808|9.7|46K|Kanashiki Kettou: Luffy tai Sanji (Kouhen)
+809|9|3.2K|Fukushuu no Arashi: Ikari no Gundan Shuurai!
+810|9.1|3K|Bouken no Owari: Sanji Ketsui no Propose
+811|8.9|2.8K|Koko de Matsu: Luffy tai Ikari no Gundan
+812|8.8|2.7K|Chateau Sennyuu: Ubae! Road Ponegliff
+813|8.5|2.1K|Innnen no Taimen: Luffy to Big Mom!
+814|8.5|2K|Tamashii no Sakebi: Brook & Pedro Dengeki Sakusen
+815|8.9|2.7K|Sayonara: Purin Namida no Ketsui
+816|9|2.9K|Hidari Me no Innen: Pedro tai Tamago-Danshaku
+817|9.6|6.9K|Shikemoku: Sanji no Kekkon Zen'ya
+818|9.2|3.2K|Fukutsu no Soul: Brook tai Big Mom
+819|9.2|3.2K|Sora no Negai: Germa no Shippaisaku Sanji
+820|8.9|2.9K|Sanji no Moto e: Luffy Gyakushuu no Dai Gekisou!
+821|8.6|2.2K|Chateau Douran: Luffy Yakusoku no Basho e
+824|8.8|2.3K|The Rendezvous! Luffy, a One-on-One at His Limit!
+825|9.6|5.3K|A Liar! Luffy and Sanji!!
+826|8.9|2.7K|Sanji Comes Back! Crash! The Tea Party from Hell!
+830|8.7|2.2K|The Family Gets Together! The Hellish Tea Party Starts!
+832|9.2|3.2K|A Deadly Kiss! The Mission to Assassinate the Emperor Kicks Off!
+833|9.5|5.3K|Returning the Sake Cup! The Manly Jimbei Pays His Debt!
+834|9.1|2.9K|The Mission Failed?! The Big Mom Pirates Strike Back!
+835|9.1|2.9K|Run, Sanji! SOS! Germa 66!
+837|8.8|2.6K|The Birth of Mom! The Day That Carmel Vanished!
+841|8.6|2K|Escape From the Tea Party! Luffy vs. Big Mom!
+842|8.6|2K|The Execution Begins! Luffy's Allied Forces Are Annihilated?!
+849|9.4|4.3K|Before the Dawn! Pedro, the Captain of the Guardians!
+850|9.3|4.1K|I'll Be Back! Luffy, Deadly Departure!
+851|8.9|2.8K|The Man with a Bounty of Billion! The Strongest Sweet General, Katakuri!
+852|9|3K|A Hard Battle Starts! Luffy vs. Katakuri!
+853|8.5|2.1K|The Green Room! An Invincible Helmsman, Jimbei!
+854|8.8|2.6K|The Threat of the Mole! Luffy's Silent Fight!
+855|8.6|2.1K|The End of the Deadly Battle?! Katakuri's Awakening in Anger!
+856|9.3|3.8K|The Forbidden Secret! Katakuri's Merienda!
+857|9|2.9K|Luffy Fights Back! The Invincible Katakuri's Weak Point!
+862|9.1|3.2K|Sulong! Carrot's Big Mystic Transformation!
+864|9|2.9K|Finally Clash - Yonko VS Straw Hat Crew
+865|8.6|2K|Dark King's Direct Precepts! The Battle Against Katakuri Turns Around!
+867|8.6|2.2K|Lurking in the Darkness! An Assassin Targeting Luffy!
+868|9.5|5.5K|One Man's Determination! Katakuri's Deadly Big Fight!
+869|9.3|3.9K|Wake Up! The Color of Observation Able to Top the Strongest!
+870|9.7|23K|A Fist of Divine Speed! Another Gear Four Application Activated!
+871|9.6|11K|Finally Concluded - An Outcome of the Fierce Battle with Katakuri
+872|8.9|2.9K|A Desperate Situation! The Iron-Tight Entrapment of Luffy!
+873|9.1|3.1K|Pulling Back from the Brink! The Formidable Reinforcements - Germa!
+874|8.6|2.1K|The Last Hope! The Sun Pirates Emerge!
+875|8.6|2.2K|A Fascinating Taste - Sanji's Cake of Happiness
+876|8.9|2.9K|The Man of Humanity and Justice - Jinbe, a Desperate Massive Ocean Current
+877|9.5|5.2K|Time for Farewell! Pudding's One Last Request!
+878|8.7|2.4K|The World in Shock! The Fifth Emperor of the Sea Arrives!
+891|8.6|2.4K|Climbing Up a Waterfall! A Great Journey Through the Land of Wano's Sea Zone!
+892|9.3|5.2K|Wano Country! To the Land of Dancing Sakura and Samurai
+893|8.9|3.2K|Otama Appears! Luffy vs. Kaido's Army!
+894|9.1|3.3K|He'll Come! The Legend of Ace in the Land of Wano!
+897|8.8|2.9K|Save Otama! Straw Hat, Bounding through the Wasteland!
+898|8.6|2.3K|The Headliner! Hawkings the Magician Appears!
+899|9.1|3.5K|Defeat is Inevitable! The Strawman's Fierce Attack!
+900|8.6|2.2K|The Greatest Day of My Life! Otama and Her Sweet Red-bean Soup!
+905|8.5|2.1K|Fighting for Otama! Fight against Holdem!
+906|8.5|2.1K|Duel! The Magician and the Surgeon of Death!
+908|8.5|2.2K|The Coming of the Treasure Ship! Luffytaro Returns the Favor!
+909|9|3.1K|Nazo no Bohyo - Oden Joseki de no Saikai!
+910|8.9|2.9K|A Legendary Samurai! The Man Who Roger Admired!
+912|9.2|4K|The Strongest Man in the World! Shutenmaru, the Thieves Brigade Chief!
+913|9.3|4K|Everyone is Annihilated! Kaido's Furious Blast Breath!
+914|9.7|11K|Finally Clashing! The Ferocious Luffy vs. Kaido!
+915|9.6|9K|Hakai-teki! Ichigeki Hissatsu no Raimei Hakke!
+916|8.9|3.2K|Iki-jigoku! Rufi Kutsujoku no Dai Tankutsu-jo
+917|9|3.6K|The Holyland in Tumult! Emperor of the Sea Blackbeard Cackles!
+924|8.8|3.1K|The Capital in an Uproar! Another Assassin Targets Sanji!
+925|9|3.3K|Dashing! The Righteous Soba Mask!
+933|8.9|3.2K|Gyukimaru! Zoro Fights a Duel on Bandit's Bridge
+934|9.4|5.1K|A Big Turnover! The Three-Sword Style Overcomes Danger!
+939|8.8|2.9K|The Straw Hats are running! Save the captive Tonoyasu
+940|9.4|5K|Zoro's Fury! The Truth About the Smile!
+941|9.2|3.4K|Toko's Tears! Orochi's Pitiless Bullets!
+942|8.9|3K|The Straw Hats Step In! An Uproarious Deadly Battle at the Execution Ground!
+943|8.6|2.2K|Luffy's Determination! Win Through the Sumo Inferno!
+945|8.6|2.3K|A Grudge Over Oshiruko - Luffy Gets into a Desperate Situation
+949|9.1|3.4K|We're Here to Win! Luffy's Desperate Scream!
+950|8.9|3.2K|Warriors' Dream! Luffy's Conquer of Udon!
+952|8.7|2.4K|Tension Rises in Onigashima! Two Emperors of the Sea Meet?!
+953|8.6|2.5K|Hiyori's Confession! Reunion on Oihagi Bridge
+954|8.5|2.4K|Its Name is Enma! Oden's Meito!
+956|9|3.7K|Ticking Down to the Great Battle! The Straw Hats Go into Combat Mode!
+957|9.6|14K|Big News! The Warlords Attack Incident
+958|9.6|11K|The Legendary Battle! Garp and Roger
+959|9|5.5K|The Promised Port - Opening of Third Act of Wano Country!
+960|8.9|5.7K|The Greatest Samurai of Wano Country! Kozuki Oden Appears!
+961|8.9|5.3K|The Crying Apprentice! Oden and Kin'emon!
+962|9.2|5.9K|Changing Destiny - The Whitebeard Pirates Cast Ashore!
+963|9.4|7.3K|Oden's Determination! Whitebeard's Trials!
+964|9.2|5.6K|Whitebeard's Little Brother! Oden's Great Adventure!
+965|9.6|15K|Blades Crossed! Roger and Whitebeard!
+966|9.5|8.7K|Roger's Wish! A New Journey!
+967|9.5|8.2K|Devoting His Life! Roger's Adventure
+968|9.7|33K|The Pirate King is Born: Arriving at the Last Island!
+969|9.5|7.3K|To Wano Country! The Roger Pirates Disband
+970|9.2|5.1K|Sad News: The Opening of the Great Pirate Era
+971|9.2|5.1K|Raid! Oden and the Nine Red Scabbards
+972|9.6|9.3K|The Moment of Conclusion! Oden vs. Kaido!
+973|9.4|6.3K|Sentenced to Boil! Oden's Deadly Hour!
+974|9.7|16K|Oden Wouldn't Be Oden If It Wasn't Boiled!
+975|9.4|6K|The Castle on Fire! The Fate of the Kozuki Clan!
+976|9.2|5.1K|Back to the Present Day! 20 Years Later!
+977|9.5|7.5K|The Sea Is For Pirates! Raid! To Onigashima
+978|9.5|7.9K|The Worst Generation Charges in! The Battle of the Stormy Sea
+979|9|4.7K|Good Luck!? Leader Kin'emon's Plot
+980|9.1|4.5K|A Tearful Promise! The Kidnapped Momonosuke!
+981|9.1|4.8K|A New Member! Knight of the Sea Jinbe!
+982|9.6|19K|Kaido's Trump Card - Introducing the Tobi Roppo
+988|8.8|3.7K|Arrival of Reinforcements! Captain of the Whitebeard Pirates!
+990|8.9|3.8K|Thunder Bagua! The Appearance of Kaido's Son
+992|8.9|3.8K|Desire to be Oden! Yamato's Dream!
+994|9|4.4K|The Scabbards Face-off - Kikunojo vs. Kanjuro
+995|9.6|9K|Raid! Inheriting Oden's Will
+996|9.2|4.4K|Onigashima in Tumult! Luffy's All-Out War Begins!
+997|8.9|4K|The Battle Under the Moon! The Berserker, Sulong the Moon Lion!
+998|8.9|3.9K|Zeus' Treason?! The Cornered Nami!
+1000|9.5|8.7K|Overwhelming Strength! The Straw Hats Come Together!
+1001|8.9|4.4K|A Risky Invitation! A Plot to Eliminate Queen!
+1004|8.8|5.1K|An Inherited Technique! Unleashing Oden's Secret Swordplay!
+1013|8.9|4.2K|Yamato's Past! The Man Who Came for an Emperor of the Sea!
+1015|9.8|93K|Straw Hat Luffy! The Man Who Will Become the King of the Pirates!
+1016|9.3|6.9K|The Battle of the Monsters! The Three Stubborn Captains!
+1017|9.7|24K|Barrage of Powerful Techniques! The Fierce Attacks of the Worst Generation!
+1018|9.1|4.9K|Kaido Laughs! The Emperors of the Sea vs. the New Generation!
+1025|9.1|4.3K|The Worst Generation Gets Wiped Out?! The Emperors' Deadly Attack!
+1026|9.6|7.3K|The Supernovas Strike Back! The Mission to Tear Apart the Emperors!
+1027|9.6|8.2K|Defend Luffy! Zoro and Law's Sword Technique!
+1028|9.7|12K|Surpass the Emperor of the Sea! Luffy Strikes Back with an Iron Fist!
+1033|9.6|9.5K|The Conclusion! Luffy's Accelerating Fist of the Supreme King
+1036|9|4.1K|Fight Against the Dark Night - The Commander-in-Chief of Wano Country Sounds Off
+1040|8.5|2.3K|A Helmsman's Pride - An Angry Jinbe!
+1044|9.4|5.4K|Clutch! A Demon Incarnate, Robin!
+1045|9.1|4K|A Spell! Kid and Zoro Facing Threats!
+1046|9.4|9.5K|Taking a Chance! The Two Arms Go into Battle!
+1048|9.1|6.8K|For the Future! Yamato and the Great Swordsmen's Pledge!
+1049|9.4|9.3K|Luffy Soars! Revenge Against the King of the Beasts!
+1051|9.2|6.9K|A Legend All Over Again! Luffy's Fist Roars in the Sky
+1054|8.9|4.1K|Death to Your Partner! Killer's Deadly Gamble!
+1056|8.8|4.1K|A Countercharge! Law and Kid's Return-Attack Combination
+1057|8.6|4.1K|For Luffy - Sanji and Zoro's Oath
+1060|9.2|8.2K|Secrets of Enma! The Cursed Sword Entrusted to Zoro
+1061|9.6|34K|The Strike of an Ifrit! Sanji vs. Queen
+1062|9.7|105K|The Three-Sword Style of the Supreme King! Zoro vs. King
+1064|8.8|5.6K|Shuron Hakke! A Lawless Dragon Closing in on Luffy
+1066|9.7|19K|The Top Billing is Coming! Deadly Attack of Shockwave and Magnetism
+1067|9.4|12K|Towards A New Era! Conclusion! The Brats' Resolution
+1068|9|10K|Moon Princess Echoes! The Final Phase of the Land of Wano
+1069|9.3|14K|There is Only One Winner - Luffy vs. Kaido
+1070|9.4|26K|Luffy is Defeated?! The Determination of Those Left Behind
+1071|9.2|77K|Luffy's Peak: Attained! Gear Fifth
+1072|9.4|34K|The Ridiculous Power! GEAR 5 in Full Play
+1074|9.5|59K|Believe in Momo - Luffy's Final Powerful Technique!
+1075|9.1|19K|20 Years Worth of Prayers! Take Back Wano Country
+1076|9.6|26K|The World That Luffy Wants
+1077|8.7|6.3K|Closing the Curtain! Winner - Straw Hat Luffy!
+1078|8.8|4.8K|The Shogun of the Land of Wano, Kozuki Momonosuke
+1080|9|5.3K|The Festival Banquet! New Emperors of the Sea
+1081|9|6.4K|The World Will Burn! The Onslaught of a Navy Admiral
+1082|8.5|6.2K|The Coming of the New Era! The Red-Haired's Imperial Rage
+1085|8.5|3.9K|The Last Curtain! Luffy and Momonosuke's Vow
+1086|9.1|5K|A New Emperor! Buggy the Genius Jester!
+1087|9.3|5.8K|The War on the Island of Women! A Case Involving Koby the Hero
+1088|9.2|6.5K|Luffy's Dream
+1089|9.7|37K|Entering a New Chapter! Luffy and Sabo's Paths!
+1093|9.6|19K|The Winner Takes All! Law vs. Blackbeard!
+1096|8.9|4.7K|A Forbidden Piece of History! A Theory Concerning a Kingdom
+1097|8.8|4K|The Will of Ohara! The Inherited Research
+1098|8.5|3.4K|The Eccentric Dream of a Genius!
+1099|8.5|3.6K|Preparations for Interception! Rob Lucci Strikes
+1100|9.7|35K|Powers on a Different Level! Luffy vs. Lucci!
+1101|9.6|20K|The Strongest Form of Humanity! The Seraphim's Powers
+1103|8.5|3.6K|Turn Back My Father! Bonney's Futile Wish!
+1104|8.8|3.6K|A Desperate Situation! The Seraphim's All-out Attack!
+1109|9.2|8.4K|A Tough Decision! An Unusual United Front!
+1112|9.7|35K|Clash! Shanks vs. Eustass Kid
+1114|9.7|24K|For the Beloved Pupil - The Fist of Vice Admiral Garp!
+1115|9.7|18K|The Navy Surprised! The Navy Headquarters' Former Admiral, Kuzan
+1118|9.1|5.1K|The Holy Land in Tumult! Sai and Leo's Full-Power Blow!
+1119|9.5|9.7K|The Entrusted Message! King Cobras Resolve!
+1120|8.7|4.2K|The World Is Shaken! The Ruler's Judgment and the Five Elders' Actions!
+1121|9.6|17K|Garp and Kuzan - A Master and a Pupil's Beliefs Clash
+1122|9.7|19K|The Last Lesson! Impact Inherited
+1123|9|7.3K|The World Shakes! The Straw Hats' Hostage Situation
+1124|8.6|6.4K|Completely Surrounded! The Operation to Escape Egghead
+1125|9.5|9.1K|A Clash of Two Men's Determination! Kizaru and Sentomaru
+1126|9|6.8K|Looming Despair! Admiral Kizaru's Depressing Mission
+1127|9.6|11K|Luffy vs. Kizaru! A Fierce Kaleidoscopic Battle
+1128|9.7|13K|The Nightmare Strikes - Warrior God of Science and Defense, Saint Saturn
+1129|9.6|9.9K|Kuma's Past - Better Off Dead in This World
+1130|9.6|10K|A History Erased! God Valley of Despair
+1131|9.1|6.2K|A Fleeting Moment of Happiness - Kumachi and Ginny
+1132|9.4|6.3K|A Pledge to Ginny - Kuma Becomes a Father
+1133|9.2|5.8K|Saving One's Daughter - The Noble "Pacifist" Kuma
+1134|9.2|5.8K|Cruel Fate - Kuma's Decision as a Father
+1135|9.3|6.8K|To the Sea Where My Father is! The Future Bonney Chooses
+1136|9.8|49K|Kuma's Life
+1137|9.7|19K|I'm Sorry, Dad - Bonney's Tears and Kuma's Fist
+1140|9|6.9K|An Admired Hero - The Warrior of Liberation Who Saves Bonney
+1141|8.7|5.5K|Reliable Reinforcements! Dorry and Brogy Arrive!
+1142|9|5.6K|Come in, World - Vegapunk's Message
+1143|8.9|5.5K|Vegapunk's Secret Plan -A Tense Worldwide Broadcast
+1144|9.7|21K|The Worst Nightmare - The Five Elders Come Together
+1145|8.8|5.1K|Fighting Together with Friends! Luffy and the Warriors of Elbaph
+1146|8.7|4K|An Imminent Threat - Stussy and Edison's Resolve
+1148|8.7|3.7K|The Lost History - Joyboy, The First Pirate
+1149|9.4|4.5K|The Void Century - A Revelation About a Sinking World
+1150|8.7|4K|Get the Ship Moving! The Iron Giant Activates!
+1151|9.6|8.7K|Her and Her Father's Dream! Bonney's Free Future
+1152|9.7|8.4K|Her Father and Mother's Legacy! Bonney's Nika Punch
+1153|9.8|13K|The Upheaval of an Era! The Color of the Supreme King That Leads Luffy
+1154|9.1|3.6K|The Truth Behind the Secret Plan - Vegapunk Claims Victory
+1155|9.4|4.6K|The Promised Horizon -Off to the Long-Awaited Elbaph
+1156|9|6K|The Long-sought Elbaph! The Big Reunion Banquet
+1160|9.1|4.8K|An Encounter on a Snowfield - Loki, the Accursed Prince
+1161|8.7|3.7K|A Dangerous Deal! Loki of the Underworld and Luffy
+1163|9.7|9.6K|I Want You to Praise Me - The Reunion of Robin and Saul
+1168|9.3|4.2K|Ancient History - The Harley Passed Down by Elbaph
+1170|8.8|3K|Get the Key! Luffy vs. Scopper Gaban
+1172|8.5|3K|Monsters Appear in Elbaph - "What I Fear Most"
+1175|8.5|3.2K|Elbaph in Flames! Jinbe's Shoulder Throw Explodes
+1176|9.2|4.1K|The Threat of the Arrow-Arrow Fruit - Gunko vs. the Straw Hats
+1177|8.7|2.8K|A Despicable Hostage Game - Sommers's Brazen Demands
+1178|9.4|4.1K|Protect History and the Future - Robin and Gaban Go on the Attack
+1179|9.5|5.9K|One Do-or-Die Second - Gaban vs. the Knights of God
+1180|9.6|8.4K|Elbaph in Despair: Diabolical Covenant, 'Domi Reversi
